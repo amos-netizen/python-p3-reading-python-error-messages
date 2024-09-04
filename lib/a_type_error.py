@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+assert(1 == 1), "The values are not equal"
+
+print("Assertion passed, the values are equal.")
